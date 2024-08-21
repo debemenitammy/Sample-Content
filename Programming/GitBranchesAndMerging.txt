@@ -1,0 +1,15 @@
+Understanding Git Branches
+
+In Git, branches are pointers to a specific commit. They allow developers to work on different features or bug fixes simultaneously without affecting the main project line.
+
+Creating and Switching Branches
+
+To create a new branch, use the command git branch <branch-name>. To switch to an existing branch, use git checkout <branch-name>.
+
+Merging Branches
+
+When you're ready to integrate changes from one branch into another, you use the git merge command. Before merging, it's often helpful to pull the latest changes from the target branch to ensure compatibility.
+
+Collaborative Workflows
+
+For teams, consider using feature branches where each developer works on a separate branch for a specific feature. Once the feature is complete, it can be merged back into the main branch.

@@ -1,0 +1,15 @@
+Creating an Effective Study Plan for Coding
+
+Learning to code is a journey that requires dedication and structure. Here's how to create a study plan that fits into your lifestyle.
+
+Identify Learning Goals
+
+Start by defining what you want to achieve. Whether it's mastering a new programming language or understanding a particular concept, having clear goals makes the learning process more focused.
+
+Allocate Time
+
+Dedicate specific times of the day for studying. Consistency is key. Even short, daily study sessions are more effective than long, infrequent ones.
+
+Use Resources Wisely
+
+Leverage online tutorials, books, and forums. Platforms like Coursera, Udemy, and freeCodeCamp offer courses on various programming topics.
